@@ -1,7 +1,7 @@
 # RubiksCubeSecond
 このリポジトリはAndroidStudioのエミュレータで動くアプリのコードです
 
-#Description
+# Description
 このアプリではルービックキューブを揃えるまでのタイムを測る機能に加えて、スクランブル後のキューブの色の配置を3Dで確認することができます。
 
 
